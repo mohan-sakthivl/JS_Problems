@@ -27,6 +27,13 @@ A structured collection of daily JavaScript algorithm and problem-solving challe
 - [x] **14.** [Count Numbers Divisible by Both 3 and 5](./Day-03/14-divisible-by-three-and-five.js)
 - [x] **15.** [Reverse an Array Manually](./Day-03/15-reverse-array-manually.js)
 
+### [Day 04: String Manipulations & Number Search](./Day-04)
+- [x] **16.** [Reverse a String](./Day-04/16-reverse-a-string.js)
+- [x] **17.** [Count Vowels in a String](./Day-04/17-count-vowels.js)
+- [x] **18.** [Find Largest and Smallest in One Loop](./Day-04/18-largest-and-smallest-in-one-loop.js)
+- [x] **19.** [Count Occurrences of a Specific Number](./Day-04/19-count-specific-number.js)
+- [x] **20.** [Sum Numbers Greater Than 10](./Day-04/20-sum-numbers-greater-than-ten.js)
+
 ---
 
 ## 🏃 How to Run
@@ -37,4 +44,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed, then run any file u
 node Day-01/01-highest-number.js
 node Day-02/06-positive-negative-zero-count.js
 node Day-03/15-reverse-array-manually.js
+node Day-04/16-reverse-a-string.js
 ```
